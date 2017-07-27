@@ -1,0 +1,12 @@
+{
+    "name": "elangx/etool",
+    "description": "php tool package",
+    "require": {
+        "php": "^5.4 || ^7.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Elangx\\Etool\\": "src/"
+        }
+    }
+}
