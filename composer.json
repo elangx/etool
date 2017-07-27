@@ -1,6 +1,11 @@
 {
     "name": "elangx/etool",
     "description": "php tool package",
+    "license": "MIT",
+    "author": {
+        "name": "Ethan Yang",
+        "email": "yangxian16@gmail.com"
+    },
     "require": {
         "php": "^5.4 || ^7.0"
     },
